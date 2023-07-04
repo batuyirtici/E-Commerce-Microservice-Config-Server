@@ -3,7 +3,7 @@ spring:
     name: basket-service
   data:
     mongodb:
-      database: moviecollectiondb-basket
+      database: basketdb-dev
       uri: mongodb://localhost:27017
   kafka:
     consumer:
