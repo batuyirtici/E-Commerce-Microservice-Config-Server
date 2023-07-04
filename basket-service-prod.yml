@@ -4,7 +4,7 @@ spring:
   data:
     mongodb:
       database: basketdb-prod
-      uri: mongodb://localhost:27019
+      uri: mongodb://localhost:27017
   kafka:
     consumer:
       auto-offset-reset: earliest
